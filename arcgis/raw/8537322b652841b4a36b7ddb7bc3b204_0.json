@@ -1,0 +1,847 @@
+{
+    "features": [
+        {
+            "attributes": {
+                "EXCEL_ID": "7ba391fe-073e-4438-9f4b-9062fbe23b0c",
+                "f1": "Mobile",
+                "f2": "Mobile",
+                "f3": "Mobile County Health Department-Mobile Cruise Terminal",
+                "f4": "Walk-In",
+                "f5": "201 S. Water Street, Mobile, Al 36602",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "(251) 410-MCHD     http://mchdcares.com | First Dose: March 30 and 31 and April 1 and 2 Second Dose: April 20, 21, 22, and 23 Location: Mobile Cruise Terminal, 201 S Water St, Mobile, AL 36602 For more information, visit https://mchd-covidvacc-mc-hd.hub.arcgis.com.",
+                "objectId": 59
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9800365.3658,
+                "y": 3592016.3445999995
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Dallas",
+                "f3": "Bloch Park",
+                "f4": "Drive Thru",
+                "f5": "108 Dallas Avenue  Selma, AL 36701",
+                "f6": 1617080400000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 30, 2021 | Second Dose: April 20, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/mass-clinics.html",
+                "objectId": 336
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9689151.0911994,
+                "y": 3816685.746334926
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Lowndes",
+                "f3": "Old National Guard Armory",
+                "f4": "Drive Thru",
+                "f5": "5 Gilmer Hills Road, Fort Deposit, AL 36032",
+                "f6": 1617080400000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose:  March 30, 2021 | Second Dose: April 20, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 337
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9638287.634859229,
+                "y": 3761655.442976392
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Bullock",
+                "f3": "Union Springs Elementary School",
+                "f4": "Drive Thru",
+                "f5": "211 Conecuh Avenue West, Union Springs, AL 36089",
+                "f6": 1617166800000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 31, 2021 | Second Dose: April 21, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 338
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9542282.664385866,
+                "y": 3782484.357636477
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Choctaw",
+                "f3": "Butler-Choctaw County Airport Aeroportul",
+                "f4": "Drive Thru",
+                "f5": "Airport Road - State Route 10, Butler, Alabama",
+                "f6": 1617166800000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 31, 2021 | Second Dose: April 21, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 339
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9809813.107447648,
+                "y": 3778313.922553536
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Macon",
+                "f3": "ALNG Armory",
+                "f4": "Drive Thru",
+                "f5": "1101 Chappie James Avenue, Tuskegee, AL 36083",
+                "f6": 1617253200000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 1, 2021 / Second Dose: April 22, 2021",
+                "objectId": 340
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9537686.316715466,
+                "y": 3822593.462609245
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Marengo",
+                "f3": "Scott Park",
+                "f4": "Drive Thru",
+                "f5": "701 Cahaba Ave, Linden, AL 36748",
+                "f6": 1617253200000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 1, 2021 | Second Dose: April 22, 2021",
+                "objectId": 341
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9774455.765607666,
+                "y": 3804379.8485967903
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Russell",
+                "f3": "Chattahoochee Valley CC",
+                "f4": "Walk-In",
+                "f5": "2602 College Drive, Phenix City, AL 36869",
+                "f6": 1617339600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 2, 2021 | Second Dose: April 23, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 342
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9465653.646418272,
+                "y": 3819087.352704039
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Wilcox",
+                "f3": "Wilcox Central H.S.",
+                "f4": "Drive Thru",
+                "f5": "1310 T. L. Threadgill Road, Camden, AL 36726",
+                "f6": 1617339600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 2, 2021 | Second Dose: April 23, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 343
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9720704.103109077,
+                "y": 3764202.314476939
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Butler",
+                "f3": "Southside Baptist Church",
+                "f4": "Drive Thru",
+                "f5": "211 King Street, Greenville, AL 36037",
+                "f6": 1617685200000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 6, 2021 | Second Dose April 27, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 344
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9643647.242305355,
+                "y": 3740724.5116969272
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Washington",
+                "f3": "Just off Hwy 43",
+                "f4": "Drive Thru",
+                "f5": "1379 Ciba Road, Mclntosh, AL. 36553",
+                "f6": 1617685200000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 6, 2021 | Second Dose: April 27, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 345
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9797070.195986228,
+                "y": 3668513.033055999
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Crenshaw",
+                "f3": "Tom Harbin Farm Center",
+                "f4": "Drive Thru",
+                "f5": "816 Airport Road, Luverne, AL 36049",
+                "f6": 1617771600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 7, 2021 | Second Dose: April 28, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 346
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9603927.716539944,
+                "y": 3729523.261039115
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Monroe",
+                "f3": "Monroe County High School",
+                "f4": "Drive Thru",
+                "f5": "212 Tiger Drive, Monroeville, AL 36460",
+                "f6": 1617771600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 7, 2021 | Second Dose: April 28, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 347
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9721947.952273542,
+                "y": 3695734.465042509
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Clarke",
+                "f3": "SP Hudson Park",
+                "f4": "Drive Thru",
+                "f5": "115 Park Street, Grove Hill, AL 36451",
+                "f6": 1617858000000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 8, 2021 | Second Dose: April 29, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 348
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9770407.710160648,
+                "y": 3727309.0929168905
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Pike",
+                "f3": "Sportsplex",
+                "f4": "Drive Thru",
+                "f5": "701 Enzor Rd Troy, AL 36079",
+                "f6": 1617858000000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 8, 2021 | Second Dose: April 29, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 349
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9567849.713211974,
+                "y": 3732425.6554718697
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeatern",
+                "f2": "Barbour",
+                "f3": "Baker Hill School",
+                "f4": "Drive Thru",
+                "f5": "24 Bakerhill School Road, Eufaula, AL 36027",
+                "f6": 1617944400000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 9, 2021 | Second Dose: April 30, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 350
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9496149.38816972,
+                "y": 3734426.3734855447
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Conecuh",
+                "f3": "Liberty Hills Shopping Center",
+                "f4": "Drive Thru",
+                "f5": "78 Liberty Hill Place, Evergreen, AL 36401",
+                "f6": 1617944400000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: April 9, 2021  | Second Dose: April 30, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 351
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9680602.215958262,
+                "y": 3692298.5969491033
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern District",
+                "f2": "Covington",
+                "f3": "Kiwanis Building",
+                "f4": "Drive Thru",
+                "f5": "2085 Kiwanis Drive, Andalusia, AL 36420",
+                "f6": 1616475600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 23, 2021 | Second Dose: April 13, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 352
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9627107.893510532,
+                "y": 3669067.03248512
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Jefferson",
+                "f2": "Jefferson",
+                "f3": "Birmingham-Shuttlesworth International Airport",
+                "f4": "Drive Thru",
+                "f5": "(Near the airport terminal off Aviation Avenue at the end of 50th Street North & 18th Alley across from Kaiser Aircraft Industries)",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "Monday – Thursday, 9:00 a.m. to 5:00 p.m. and Friday from 10:00 a.m. to 3:00 p.m. Location: Birmingham-Shuttlesworth International Airport (Near the airport terminal off Aviation Avenue at the end of 50th Street North & 18th Alley across from Kaiser Aircraft Industries)  To register for an appointment, visit www.jeffcoema.org and click the green registration button. Those who do not have access to the website can call the Jefferson County Vaccine Call Center available Monday – Saturday from 8:00 a.m. to 8:00 p.m. at (205) 858-2221 to schedule.",
+                "objectId": 353
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9658245.842121966,
+                "y": 3968844.0698241424
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Geneva",
+                "f3": "Geneva County Farm Center",
+                "f4": "Drive Thru",
+                "f5": "2765 East Highway 52, Hartford, AL 36344",
+                "f6": 1616821200000,
+                "f7": "7:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "No appointment necessary. Flyer:  https://www.alabamapublichealth.gov/covid19vaccine/assets/mass-clinic-geneva-032721.pdf",
+                "objectId": 354
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9553703.342799468,
+                "y": 3640570.8905020687
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Colbert",
+                "f3": "Northwest Shoals Community College Patriot Center Gym",
+                "f4": "Drive Thru",
+                "f5": "800 George Wallace Blvd, Muscle Shoals, AL 35661",
+                "f6": 1616994000000,
+                "f7": "7:30 a.m.",
+                "f8": "6:15 p.m.",
+                "f9": "First Dose: March 29 | Second Dose: April 19 | To schedule an appointment and read more about your visit, go to https://forms.gle/Nwg4SWnjRiXnwwAq8. If you need to cancel or change your appointment time, call (256) 386-4747.",
+                "objectId": 355
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9760156.366191084,
+                "y": 4128251.282522881
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Montgomery",
+                "f3": "Old Smiley Court",
+                "f4": "Drive Thru",
+                "f5": "4107 Marlyn Street, Montgomery, AL 36108",
+                "f6": 1616994000000,
+                "f7": "8 a.m.",
+                "f8": "Until all doses are administered",
+                "f9": "First Dose: March 29 Second Dose: April 19 / No appointment necessary. News Release: https://www.alabamapublichealth.gov/news/2021/03/25.html",
+                "objectId": 356
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9612732.217416884,
+                "y": 3807206.981627171
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Walker",
+                "f3": "Walker County Bevill Field Airport",
+                "f4": "Drive Thru",
+                "f5": "1601 N Airport Road, Jasper, AL 35504",
+                "f6": null,
+                "f7": "9:00 a.m.",
+                "f8": "6:00 p.m.",
+                "f9": "First Dose: March 30 or April 1 Second Dose: April 20 or April 22  | To schedule an appointment, visit signupgenius.com/go/10c0c4dadad2ba7fcc25-community.  |  https://www.alabamapublichealth.gov/covid19vaccine/assets/mass-clinic-walker-033021.pdf",
+                "objectId": 357
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9714392.135052238,
+                "y": 4010782.51254538
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Franklin",
+                "f3": "Calvary Baptist Church",
+                "f4": "Drive Thru",
+                "f5": "6241 US-43, Russellville, AL 35653",
+                "f6": null,
+                "f7": "7:30 a.m.",
+                "f8": "6:15 p.m.",
+                "f9": "First Dose: March 31 or April 1 Second Dose: April 21 or April 22 | To schedule an appointment, visit https://signup.com/client/invitation2/secure/8832019160119/false#/invitation.",
+                "objectId": 358
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9764504.532818962,
+                "y": 4099775.818662408
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Sumter",
+                "f3": "Hopkins St., Livingston, AL 35470",
+                "f4": "Drive Thru",
+                "f5": "Hopkins St., Livingston, AL 35470",
+                "f6": 1616475600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 23, 2021 | Second Dose: April 13, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 359
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9817660.247051978,
+                "y": 3841850.086491849
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Coffee",
+                "f3": "Enterprise Civic Center",
+                "f4": "Drive Thru",
+                "f5": "2401 Neil Metcalf Road, Enterprise, AL 36330",
+                "f6": 1616475600000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 23, 2021 | Second Dose: April 13, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 360
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9558476.570175512,
+                "y": 3678693.2899551927
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Greene",
+                "f3": "Greenetrack",
+                "f4": "Drive Thru",
+                "f5": "524 Co Rd 208, Eutaw, AL 35462",
+                "f6": 1616562000000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 24, 2021 | Second Dose: April 14, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 361
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9780965.93246678,
+                "y": 3883046.865323457
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Dale",
+                "f3": "Ozark Civic Center",
+                "f4": "Drive Thru",
+                "f5": "320 East College Street, Ozark, AL 36360",
+                "f6": 1616648400000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 25, 2021 | Second Dose: April 15, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 362
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9532962.045135329,
+                "y": 3692141.556852174
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southeastern",
+                "f2": "Henry",
+                "f3": "Calvary Baptist Church",
+                "f4": "Drive Thru",
+                "f5": "310 Dothan Rd, Abbeville, AL 36310",
+                "f6": 1616734800000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 26, 2021  | Second Dose: April 16, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 363
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9490319.0503734,
+                "y": 3704510.613457729
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Perry",
+                "f3": "Marion Military Institue",
+                "f4": "Drive Thru",
+                "f5": "1101 Washington St, Marion, AL 36756",
+                "f6": 1616734800000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "First Dose: March 26, 2021 | Second Dose: April 16, 2021 | https://www.alabamapublichealth.gov/covid19vaccine/ng-clinics.html",
+                "objectId": 364
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9720537.680416051,
+                "y": 3845585.266317029
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Escambia / Poarch Band of Creek Indians",
+                "f3": "PCI Reservation",
+                "f4": "Drive Thru",
+                "f5": "5811 Jack Springs Rd, Atmore, AL, 36502, USA",
+                "f6": null,
+                "f7": "8:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "In partnership with the Poarch Band of Creek Indians (PCI) and the Southwestern District of the Alabama Department of Public Health (ADPH), drive-through COVID-19 vaccination clinics will be held March 31 and April 1 at the PCI Reservation between 8 a.m. and 5 p.m. Vaccinations will be provided to anyone in the qualifying groups, regardless of whether they are members of the PCI tribe. Vaccinations will be provided on a first-come, first-served basis and there is no cost to receive a vaccine.   The Reservation is located off Exit 54 of U.S. 65-N. To reach the site of the clinic, enter the Reservation through Paredes Way, either right before or right after passing the Tribal Administration Building at 5811 Jack Springs Road. No appointment is needed.  People currently eligible for vaccination are those who are 55 years old and older, people with intellectual and developmental disabilities and the population defined as Phases 1a, 1b and 1c in Alabama’s COVID-19 Vaccination Allocation Plan, alabamapublichealth.gov/covid19vaccine/assets/adph-covid19-vaccination-allocation-plan.pdf.  People who get a first-dose shot on March 31 will return on April 21 for their second dose, and the people who get a shot on April 1 will come back on April 22.  Persons with disabilities in need of reasonable accommodations should contact Phyllis Hall at (251) 578-1952.",
+                "objectId": 365
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9746338.9847874,
+                "y": 3645437.3055703696
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "West Central",
+                "f2": "Hale",
+                "f3": "Boys and Girls Club",
+                "f4": "Drive Thru",
+                "f5": "515 Greene Street Greensboro, AL 36744",
+                "f6": 1618462800000,
+                "f7": "9:00 a.m.",
+                "f8": "5:00 p.m.",
+                "f9": "No appointment necessary.  J&J / One Dose Clinic",
+                "objectId": 366
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9750167.565262051,
+                "y": 3854844.349037891
+            }
+        }
+    ],
+    "fields": [
+        {
+            "alias": "CL_District",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f1",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_County",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f2",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Location",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f3",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Type",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f4",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Address",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f5",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Date",
+            "defaultValue": null,
+            "domain": null,
+            "length": 8,
+            "name": "f6",
+            "sqlType": "sqlTypeTimestamp2",
+            "type": "esriFieldTypeDate"
+        },
+        {
+            "alias": "CL_StartTime",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f7",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_EndTime",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f8",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Comments",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f9",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "objectId",
+            "defaultValue": null,
+            "domain": null,
+            "name": "objectId",
+            "sqlType": "sqlTypeInteger",
+            "type": "esriFieldTypeOID"
+        },
+        {
+            "alias": "EXCEL_ID",
+            "defaultValue": null,
+            "domain": null,
+            "length": 16,
+            "name": "EXCEL_ID",
+            "sqlType": "sqlTypeGUID",
+            "type": "esriFieldTypeGUID"
+        }
+    ],
+    "geometryType": "esriGeometryPoint",
+    "globalIdFieldName": "",
+    "objectIdFieldName": "objectId",
+    "spatialReference": {
+        "latestWkid": 3857,
+        "wkid": 102100
+    }
+}
