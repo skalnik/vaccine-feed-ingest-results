@@ -1,0 +1,1484 @@
+{
+    "features": [
+        {
+            "attributes": {
+                "EXCEL_ID": "c3d66f7c-e5bc-497b-ae65-b8dc3e6cbbec",
+                "f1": "Southeastern",
+                "f2": "Geneva",
+                "f3": "Geneva County Health Department",
+                "f4": "Appointment Only",
+                "f5": "300 County Road 41, Hartord, AL 36344",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 2
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9553878.3454,
+                "y": 3640520.8653
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "c19158a9-c85a-4e2d-b39e-400d808e366f",
+                "f1": "Southeastern",
+                "f2": "Henry",
+                "f3": "Henry County Health Department",
+                "f4": "Appointment Only",
+                "f5": "500 Kirkland Street, Abbeville, AL 36310",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 3
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9490122.085,
+                "y": 3706097.6706999983
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "2352453c-dc2e-40a1-ad6a-d32fa91ae38f",
+                "f1": "Southeastern",
+                "f2": "Barbour",
+                "f3": "Barbour County Health Department - Eufaula",
+                "f4": "Appointment Only",
+                "f5": "634 School Street, Eufaula, AL 36027",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 4
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9477781.7319,
+                "y": 3747840.089299999
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "66b4aa7c-ba1c-4169-938f-2c1b9b18a169",
+                "f1": "Southeastern",
+                "f2": "Houston",
+                "f3": "Houston County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1781 East Cottonwood Road, Dothan, AL 36301",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 5
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9503894.6742,
+                "y": 3657748.5412999983
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "a7559502-32bd-4d06-9fd7-2a619fd6bb7e",
+                "f1": "Southeastern",
+                "f2": "Covington",
+                "f3": "Covington County Health Department",
+                "f4": "Appointment Only",
+                "f5": "23989 Alabama Highway 55, Andalusia, AL 36420",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 6
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9626979.6957,
+                "y": 3668905.6072999984
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "7fd2a5d4-d896-4e7d-906c-59a4bff9ef50",
+                "f1": "Southeastern",
+                "f2": "Pike",
+                "f3": "Pike County Health Department",
+                "f4": "Appointment Only",
+                "f5": "900 South Franklin Drive, Troy, AL 36081",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 7
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9567556.1992,
+                "y": 3735122.8084999993
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "61284072-b2cd-42b1-bb66-7cc40ebba55b",
+                "f1": "West Central",
+                "f2": "Bibb",
+                "f3": "Bibb County Health Department",
+                "f4": "Appointment Only",
+                "f5": "281 Alexander Ave. Centreville AL, 35042",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 8
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9701072.985,
+                "y": 3888396.097099997
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "5fb3fd81-efc0-4359-8906-d9dcc25614d9",
+                "f1": "Southeastern",
+                "f2": "Crenshaw",
+                "f3": "Crenshaw County Health Department",
+                "f4": "Appointment Only",
+                "f5": "15 Hospital Drive, Luverne, AL 36049",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 9
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9602954.7622,
+                "y": 3723282.982000001
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "a3c88fde-6bc3-471d-8c65-57f22a56cd5d",
+                "f1": "Southeastern",
+                "f2": "Butler",
+                "f3": "Butler County Health Department",
+                "f4": "Appointment Only",
+                "f5": "350 Airport Road, Greenville, AL 36037",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 10
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9642142.5888,
+                "y": 3743451.3621999994
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "36f9231b-15ab-44ff-9f0e-f46930f9bb31",
+                "f1": "West Central",
+                "f2": "Chilton",
+                "f3": "Chilton County Health Department",
+                "f4": "Appointment Only",
+                "f5": "301 Health Center Drive Clanton, AL 35046",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 11
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9643079.8327,
+                "y": 3876276.1670999974
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "b72450e5-e966-49eb-a850-b7f241714c7e",
+                "f1": "Southeastern",
+                "f2": "Dale",
+                "f3": "Dale County Health Department",
+                "f4": "Appointment Only",
+                "f5": "532 West Roy Parker Road, Ozark, AL 36360",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 12
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9534496.8318,
+                "y": 3694053.9104999974
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "889cfb12-64b6-4124-95e1-eb249e2d83eb",
+                "f1": "Southeastern",
+                "f2": "Coffee",
+                "f3": "Coffee County Health Department",
+                "f4": "Appointment Only",
+                "f5": "2841 Neal Metcalf Road, Enterprise, AL 36330",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 13
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9558803.4089,
+                "y": 3679763.383299999
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "ea03f8fb-4309-4452-9393-74f11fe98cf1",
+                "f1": "West Central",
+                "f2": "Fayette",
+                "f3": "Fayette County Health Department ",
+                "f4": "Appointment Only",
+                "f5": "215 1ST Ave Nw Fayette, AL 35555",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 15
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9777403.2748,
+                "y": 3986732.4477000018
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "2355e7f2-e369-4348-9853-e9ff00ba1426",
+                "f1": "West Central",
+                "f2": "Greene",
+                "f3": "Greene County Health Department",
+                "f4": "Appointment Only",
+                "f5": "412 Morrow Avenue Eutaw, AL 35462",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 16
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9783534.0977,
+                "y": 3874311.284199998
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "a786072d-854d-4455-9a75-7c51f6a8941f",
+                "f1": "West Central",
+                "f2": "Pickens",
+                "f3": "Pickins Coutny Health Department",
+                "f4": "Appointment Only",
+                "f5": "80 William E. Hill Dr. Carrollton, AL 35447",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 17
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9806317.2984,
+                "y": 3931906.5672999993
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "903be145-36ff-4efa-87b8-499f6c0a86fd",
+                "f1": "West Central",
+                "f2": "Sumter",
+                "f3": "Sumter County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1121 North Washington Street, Livingston, AL 35470",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 18
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9816506.0294,
+                "y": 3843158.3059
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "93b99bba-f397-4293-9286-1ac59abdb921",
+                "f1": "West Central",
+                "f2": "Tuscaloosa",
+                "f3": "Tuscaloosa County Health Department",
+                "f4": "Appointment Only",
+                "f5": "2350 Hargrove Rd East, Tuscaloosa, AL 35405",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 19
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9741148.5213,
+                "y": 3919129.6897
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "540778c5-121c-43a1-826b-cd46236145de",
+                "f1": "West Central",
+                "f2": "Walker",
+                "f3": "Walker County Health Department",
+                "f4": "Appointment Only",
+                "f5": "705 20TH Avenue East Jasper, AL 35501",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 20
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9712827.0968,
+                "y": 4007568.074100002
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "0f7c15ae-4de0-472e-b27a-ae4b025760a8",
+                "f1": "East Central",
+                "f2": "Autauga",
+                "f3": "Autauga County Health Department",
+                "f4": "Appointment Only",
+                "f5": "219 North Court Street, Prattville, AL 36067",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 22
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9626343.0626,
+                "y": 3824466.283699997
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "4f549f8d-505e-4c0d-8eb6-22bd8ac24f98",
+                "f1": "West Central",
+                "f2": "Hale",
+                "f3": "Hale County Health Department",
+                "f4": "Appointment Only",
+                "f5": "670 HAL Street Greensboro, AL 36744",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 23
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9750352.0319,
+                "y": 3854519.8332
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "9826da36-a6cd-4f02-bd5a-1e6af965e19c",
+                "f1": "East Central",
+                "f2": "Lee",
+                "f3": "Lee County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1801 Corporate Drive, Opelika, AL 36801",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 24
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9506899.3636,
+                "y": 3845882.6066000015
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "5c1de490-45db-4dcd-8ec8-3dea6c8217e3",
+                "f1": "West Central",
+                "f2": "Lamar",
+                "f3": "Lamar County Health Department",
+                "f4": "Appointment Only",
+                "f5": "300 Springfield Road Vernon, AL 35592",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 25
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9810928.0696,
+                "y": 3995737.9760999978
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "57a3488f-3a0d-4f90-a728-87ff1d9af209",
+                "f1": "East Central",
+                "f2": "Bullock",
+                "f3": "Bullock County Health Department",
+                "f4": "Appointment Only",
+                "f5": "674 Hicks Industrial Blvd, Union Springs, AL 36089",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 26
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9539949.2737,
+                "y": 3781076.345100001
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "3acaef1b-0c56-463e-8597-d1279656ba15",
+                "f1": "East Central",
+                "f2": "Chambers",
+                "f3": "Chambers County Health Department",
+                "f4": "Appointment Only",
+                "f5": "5 North Medical Park Dr. , Valley, AL 36854",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 27
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9481160.9427,
+                "y": 3872159.8012000024
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "123106b0-a18d-47ec-9108-45136747e5ef",
+                "f1": "East Central",
+                "f2": "Lowndes",
+                "f3": "Lowndes County Health Department",
+                "f4": "Appointment Only",
+                "f5": "507 East Tuskeena Street, Hayneville, AL 36040",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 28
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9637333.5246,
+                "y": 3787560.212899998
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "a565f08b-1617-4f17-a04b-b378b921a255",
+                "f1": "East Central",
+                "f2": "Macon",
+                "f3": "Macon County Health Department",
+                "f4": "Appointment Only",
+                "f5": "812 Hospital Road, Tuskegee, AL 36083",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 29
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9541390.1372,
+                "y": 3822070.0189
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "f7db62fb-ed83-4992-997d-0b396a113e3c",
+                "f1": "West Central",
+                "f2": "Perry",
+                "f3": "Perry County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1748 South Washington St. Marion, AL 36756",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 31
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9720181.0724,
+                "y": 3843389.7971
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "c924f3ea-615b-40fc-9942-9eae419ef421",
+                "f1": "East Central",
+                "f2": "Montgomery",
+                "f3": "Montgomery County Health Department",
+                "f4": "Appointment Only",
+                "f5": "3060 Mobile Highway, Montgomery, AL 36108",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 32
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9611287.7673,
+                "y": 3809254.532099999
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "0b4b5310-f57e-46d4-bfd9-8d4bf3b691a4",
+                "f1": "East Central",
+                "f2": "Russell",
+                "f3": "Russell County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1850 Crawford Road, Phenix City, AL 36867",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 33
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9464299.6137,
+                "y": 3825689.943400003
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": "d2b562e6-fb34-4405-94a3-2d74c831965c",
+                "f1": "East Central",
+                "f2": "Tallapoosa",
+                "f3": "Tallapoosa County Health Department (Alexandar City Site)",
+                "f4": "Appointment Only",
+                "f5": "2078 Sportplex Blvd, Alexandar City, AL 35010",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 34
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9570966.199458126,
+                "y": 3885621.984817952
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Colbert County Health Department",
+                "f2": "Colbert",
+                "f3": "Colbert County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1000 S Jackson Hwy, Sheffield, AL, 35660",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 37
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9763001.057832694,
+                "y": 4129371.883892447
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Cullman",
+                "f3": "Cullman County Health Department",
+                "f4": "Appointment Only",
+                "f5": "601 Logan Ave SW, Cullman, AL, 35055",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 38
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9669815.972324245,
+                "y": 4051562.2220118046
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Franklin",
+                "f3": "Franklin County Health Department",
+                "f4": "Appointment Only",
+                "f5": "801 Hwy 48 Russellville, AL  35654",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 39
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9763038.74298815,
+                "y": 4096940.342180046
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Jackson",
+                "f3": "Jackson County Health Department",
+                "f4": "Appointment Only",
+                "f5": "204 Liberty Ln Scottsboro, AL 35769",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 40
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9575389.121565651,
+                "y": 4117473.392492629
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Lauderdale",
+                "f3": "Lauderdale County Health Department",
+                "f4": "Appointment Only",
+                "f5": "4112 Chisholm Road Florence, AL 35630",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 41
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9759707.715469165,
+                "y": 4145604.827958523
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Lawrence",
+                "f3": "Lawrence County Health Deparment",
+                "f4": "Appointment Only",
+                "f5": "13299 Hwy 157 Moulton, AL 35650",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 42
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9716872.229159947,
+                "y": 4096962.4894817546
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Limestone",
+                "f3": "Limestone County Health Department",
+                "f4": "Appointment Only",
+                "f5": "20731 Clyde Mabry Dr. Athens, AL 35611",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 43
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9680274.80828137,
+                "y": 4130283.716639052
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Madison",
+                "f3": "Madison County Health Department",
+                "f4": "Appointment Only",
+                "f5": "301 Max Luther Drive, Huntsville, AL 35811",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 44
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9638285.452560088,
+                "y": 4130988.659949813
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Marion",
+                "f3": "Marion County Health Department",
+                "f4": "Appointment Only",
+                "f5": "2448 Military St. S Hamilton, AL 35570",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 45
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9795046.76876812,
+                "y": 4043354.096093088
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Marshall",
+                "f3": "Marshall County Health Department",
+                "f4": "Appointment Only",
+                "f5": "150 Judy Smith Dr. Guntersville, AL 35976",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 46
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9604385.20723111,
+                "y": 4070114.944916224
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Morgan",
+                "f3": "Morgan County Health Department",
+                "f4": "Appointment Only",
+                "f5": "3821 HWY 31 South Decatur, AL 35603",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 47
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9682059.802673051,
+                "y": 4100737.116616151
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northern",
+                "f2": "Winston",
+                "f3": "Winston County Health Department",
+                "f4": "Appointment Only",
+                "f5": "110 Legion Road, Double Springs, AL 3553",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 48
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9729899.588019053,
+                "y": 4048289.895793737
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Baldwin",
+                "f3": "Baldwin County Health Department",
+                "f4": "Appointment Only",
+                "f5": "23280 Gilbert Dr, Robertsdale, AL 36567",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 50
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9763853.171737576,
+                "y": 3576323.19479211
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Choctaw",
+                "f3": "Choctaw County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1001 S Mulberry Ave, Butler, AL 36904",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 51
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9821275.21458332,
+                "y": 3773785.445454143
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Clarke",
+                "f3": "Clarke County Health Department",
+                "f4": "Appointment Only",
+                "f5": "22600 US-84, Grove Hill, AL 36451",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 52
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9769371.046344688,
+                "y": 3722796.152021718
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Conecuh",
+                "f3": "Evergreen Medical Center",
+                "f4": "Appointment Only",
+                "f5": "101 Crestview St, Evergreen, AL 36401",
+                "f6": "For Conecuh County appointments, please contact the Evergreen Medical Center at (251) 578-0278.",
+                "objectId": 53
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9678162.124993147,
+                "y": 3688835.997502566
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Dallas",
+                "f3": "Dallas County Health Department",
+                "f4": "Appointment Only",
+                "f5": "100 Samuel O Moseley Dr, Selma, AL 36701",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 54
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9690980.929289542,
+                "y": 3820082.826870801
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Escambia",
+                "f3": "Atmore Community Hospital",
+                "f4": "Appointment Only",
+                "f5": "401 Medical Park Dr, Atmore, AL 36502",
+                "f6": "https://www.atmorehealth.org/ and click on the COVID Vaccine Request button.",
+                "objectId": 55
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9738089.463320063,
+                "y": 3634959.267447832
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Escambia",
+                "f3": "DW McMillan Memorial Hospital",
+                "f4": "Appointment Only",
+                "f5": "1301 Belleville Ave, Brewton, AL 36426",
+                "f6": "https://www.dwmmh.org/ and click on the COVID Vaccine Request button.",
+                "objectId": 56
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9692953.892402824,
+                "y": 3649305.0847441736
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Marengo",
+                "f3": "Marengo County Health Department",
+                "f4": "Appointment Only",
+                "f5": "303 Industrial Drive, Linden, AL 36748",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 57
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9773210.364325996,
+                "y": 3802244.514373053
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Monroe",
+                "f3": "Monroe County Health Department",
+                "f4": "Appointment Only",
+                "f5": "416 Agriculture Dr Monroeville, AL 36460",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 58
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9721507.955999708,
+                "y": 3696684.677449149
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": null,
+                "f2": "Washington",
+                "f3": "Washington County Health Department",
+                "f4": "Appointment Only",
+                "f5": "14900 St. Stephens Avenue Chatom, AL 36518",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 59
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9821763.9548075,
+                "y": 3692388.655432813
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Southwestern",
+                "f2": "Wilcox",
+                "f3": "Wilcox County Health Department",
+                "f4": "Appointment Only",
+                "f5": "107 Union St, Camden, AL 36726",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 60
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9717197.28196812,
+                "y": 3762187.6726938505
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "East Central",
+                "f2": "Elmore",
+                "f3": "Elmore County Health Department",
+                "f4": "Appointment Only",
+                "f5": "6501 U.S. Highway 231, Wetumpka, AL 36092",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 63
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9596234.020801848,
+                "y": 3833616.267580501
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "St. Clair",
+                "f3": "St. Clair County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1175 23rd St N.,  Pell City, AL  35125",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 64
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9605402.34934638,
+                "y": 3975456.4894345687
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Blount",
+                "f2": "Blount",
+                "f3": "Blount County Health Department",
+                "f4": "Appointment Only",
+                "f5": "1001 Lincoln Ave, Oneonta, AL  35121",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 65
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9625264.126731023,
+                "y": 4023105.987989877
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Randolph",
+                "f3": "Randolph County Health Department",
+                "f4": "Appointment Only",
+                "f5": "320 Main St.  Roanoake, AL  36274",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 66
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9502720.100045606,
+                "y": 3915413.736912852
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Calhoun",
+                "f3": "Calhoun County Health Department",
+                "f4": "Appointment Type",
+                "f5": "3400 McClellan Blvd, Anniston, AL  36201",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 67
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9553925.901670877,
+                "y": 3987420.022057817
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Cherokee",
+                "f3": "Cherokee County Health Department",
+                "f4": "Appointment Only",
+                "f5": "833 Cedar Bluff Rd, Centre, AL  35960",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 68
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9535830.731348049,
+                "y": 4050995.945165609
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Clay",
+                "f3": "Clay County Health Department",
+                "f4": "Appointment Only",
+                "f5": "86892 Hwy 9, Lineville, AL  36266",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 69
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9548498.607283471,
+                "y": 3934143.33440926
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Cleburne",
+                "f2": "Cleburne",
+                "f3": "Cleburne County Health Department",
+                "f4": "Appointment Only",
+                "f5": "90 Brockford Rd, Heflin, AL  36264",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 70
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9527787.34461794,
+                "y": 3980003.7491553207
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Dekalb",
+                "f3": "Dekalb County Health Department",
+                "f4": "Appointment Only",
+                "f5": "2401 Calvin Dr SW, Ft. Payne, AL  35967",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 71
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9546909.59868385,
+                "y": 4085871.54164939
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Etowah",
+                "f2": "Etowah",
+                "f3": "Etowah County Health Department",
+                "f4": "Appointment Only",
+                "f5": "709 East Broad St, Gadsden, AL",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 72
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9571889.30312815,
+                "y": 4029233.8128964873
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Shelby",
+                "f3": "Shelby County Health Department",
+                "f4": "Appointment Only",
+                "f5": "2000 County Service Dr, Pelham",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 73
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9661975.35158575,
+                "y": 3932896.7440657127
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Talladega",
+                "f3": "Talladega County Health Department (Sylacauga)",
+                "f4": "Appointment Only",
+                "f5": "311 North Elm Ave, Sylacauga, AL  35150",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 74
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9602229.102581298,
+                "y": 3918224.490785351
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Talladega",
+                "f3": "Talladega County Health Department (Talladega)",
+                "f4": "Appointment Only",
+                "f5": "1004 South St E, Talladega, AL  35160",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 75
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9582726.409391124,
+                "y": 3953370.5619156375
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Cherokee",
+                "f3": "Cherokee County Rescue Business",
+                "f4": "Appointment Only",
+                "f5": "725 Cedar Bluff Rd, Centre, AL  35960",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 76
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9536305.88158335,
+                "y": 4050573.8695503063
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Cleburne",
+                "f3": "Heflin Armory",
+                "f4": "Appointment Only",
+                "f5": "115 Evans St. Heflin, AL  36264",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 77
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9527244.168317262,
+                "y": 3981251.065188816
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Northeastern",
+                "f2": "Dekalb",
+                "f3": "Northeast Alabama Agricultural Business Center",
+                "f4": "Appointment Only",
+                "f5": "1571 McCurdy Avenue North, Rainsville, AL 35986",
+                "f6": "https://nicalabama.queue-it.net/?c=nicalabama&e=alcovidvaccine",
+                "objectId": 78
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9554965.365773013,
+                "y": 4097954.4630555217
+            }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Jefferson",
+                "f2": "Jefferson",
+                "f3": "Jefferson County Health Department (Hotline: (205) 858-2221)",
+                "f4": "Appointment Only",
+                "f5": "1400 6th Ave S, Birmingham, AL 35233",
+                "f6": "https://app.smartsheet.com/b/form/806ac06a13a8421a9ed94edb601d3c08",
+                "objectId": 79
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9663442.018730693,
+                "y": 3962372.844013056
+            }
+        }
+    ],
+    "fields": [
+        {
+            "alias": "CL_County",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f2",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Location",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f3",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Type",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f4",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "CL_Address",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f5",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "Click_Here",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f6",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        },
+        {
+            "alias": "objectId",
+            "defaultValue": null,
+            "domain": null,
+            "name": "objectId",
+            "sqlType": "sqlTypeInteger",
+            "type": "esriFieldTypeOID"
+        },
+        {
+            "alias": "EXCEL_ID",
+            "defaultValue": null,
+            "domain": null,
+            "length": 16,
+            "name": "EXCEL_ID",
+            "sqlType": "sqlTypeGUID",
+            "type": "esriFieldTypeGUID"
+        },
+        {
+            "alias": "CL_District",
+            "defaultValue": null,
+            "domain": null,
+            "length": 2147483647,
+            "name": "f1",
+            "sqlType": "sqlTypeNVarchar",
+            "type": "esriFieldTypeString"
+        }
+    ],
+    "geometryType": "esriGeometryPoint",
+    "globalIdFieldName": "",
+    "objectIdFieldName": "objectId",
+    "spatialReference": {
+        "latestWkid": 3857,
+        "wkid": 102100
+    }
+}
