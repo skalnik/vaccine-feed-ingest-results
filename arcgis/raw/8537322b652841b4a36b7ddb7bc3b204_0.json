@@ -735,6 +735,29 @@
                 "x": -9750167.565262051,
                 "y": 3854844.349037891
             }
+        },
+        {
+            "attributes": {
+                "EXCEL_ID": null,
+                "f1": "Jefferson",
+                "f2": "Jefferson",
+                "f3": "WaterMark Place",
+                "f4": "Drive-Thru",
+                "f5": "4500 Katies Way, Bessemer, AL 35022",
+                "f6": null,
+                "f7": null,
+                "f8": null,
+                "f9": "https://myturn.timetap.com/#/   Tentative Schedule - Hours are subject to change Monday, Wednesday, Friday, and Saturday: 9:00 a.m. - 4:00 p.m. Tuesday and Thursday: 11:00 a.m. - 6:00 p.m. Sunday: 12:00 p.m. - 4:00 p.m.   Closed Mother's Day and Memorial Day",
+                "objectId": 367
+            },
+            "geometry": {
+                "spatialReference": {
+                    "latestWkid": 3857,
+                    "wkid": 102100
+                },
+                "x": -9684493.570913564,
+                "y": 3946684.5371860256
+            }
         }
     ],
     "fields": [
